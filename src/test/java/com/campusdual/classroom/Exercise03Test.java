@@ -59,5 +59,4 @@ class Exercise03Test {
         boolean check = this.outContent.toString().contains("Ups. No pudimos validar tus datos. Tu nombre de usuario no es Sebas");
         assertTrue(check, "Error message is not correct");
     }
-
 }
